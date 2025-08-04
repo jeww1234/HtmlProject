@@ -21,6 +21,53 @@
     height: 70vh;
 }
 
+.Home-footer h2,
+.Home-footer p {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.Home-footer {
+  padding: 3rem 1rem;
+  min-height: 70vh;
+  height: auto;
+}
+
+
+.Home-footer .col {
+  padding-left: 15px;
+  padding-right: 15px;
+  box-sizing: border-box;
+}
+
+.reward-logo {
+  width: 100%;
+  height: auto;
+}
+
+
+@media (max-width: 1200px) {
+  .reward-text h3 {
+    font-size: 1.5rem;
+  }
+  .reward-text h5 {
+    font-size: 1rem;
+  }
+}
+
+
+@media (max-width: 991.98px) {
+  .Home-footer h2 {
+    font-size: 1.4rem;
+    line-height: 1.3;
+  }
+
+  .Home-footer p {
+    font-size: 0.95rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
 
 
 
