@@ -134,7 +134,7 @@ const Home = () => {
                   편리하게 등록하세요!
                 </h5>
                 <h5>
-                  카드를 등록하여 K-Coffee 리워드 회원이 되신 후, 첫 구매를
+                  카드를 등록하여 K-Coffee 리워드 회원이 되신 후 첫 구매를
                   하시면 무료 음료쿠폰을 드립니다!
                 </h5>
                 <Button className="p-1">K-Coffee 모바일 카드 선물하기</Button>
